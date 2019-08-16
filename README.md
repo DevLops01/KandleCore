@@ -10,5 +10,5 @@ Kandle Core integration/staging repository
 <tr><td>Max Coin Supply </td><td>21,000,000 KNDL</td></tr>
 
 
-The Kandle Project is a test to create a full scale Video sharing application centered around blockchain technoogy and cryptocurrency.
+The Kandle Project is the worlds first decentralized platform for algorithmic trading. Users can easily set up trading strategies and begin profitable cryptocurrency trading via Kandle Bots with no programming knowledge required.
 
