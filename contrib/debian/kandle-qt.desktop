@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kandle
+Comment=Kandle P2P Cryptocurrency
+Comment[fr]=Kandle, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Kandle, eşten eşe kriptografik sanal para birimi
+Exec=kandle-qt %u
+Terminal=false
+Type=Application
+Icon=kandle128
+MimeType=x-scheme-handler/kandle;
+Categories=Office;Finance;

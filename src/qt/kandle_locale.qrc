@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/kandle_bg.qm</file>
+        <file alias="ca">locale/kandle_ca.qm</file>
+        <file alias="cs">locale/kandle_cs.qm</file>
+        <file alias="da">locale/kandle_da.qm</file>
+        <file alias="de">locale/kandle_de.qm</file>
+        <file alias="en">locale/kandle_en.qm</file>
+        <file alias="en_US">locale/kandle_en_US.qm</file>
+        <file alias="eo">locale/kandle_eo.qm</file>
+        <file alias="es">locale/kandle_es.qm</file>
+        <file alias="es_ES">locale/kandle_es_ES.qm</file>
+        <file alias="fi">locale/kandle_fi.qm</file>
+        <file alias="fr_FR">locale/kandle_fr_FR.qm</file>
+        <file alias="hi_IN">locale/kandle_hi_IN.qm</file>
+        <file alias="hr">locale/kandle_hr.qm</file>
+        <file alias="hr_HR">locale/kandle_hr_HR.qm</file>
+        <file alias="it">locale/kandle_it.qm</file>
+        <file alias="ja">locale/kandle_ja.qm</file>
+        <file alias="ko_KR">locale/kandle_ko_KR.qm</file>
+        <file alias="lt_LT">locale/kandle_lt_LT.qm</file>
+        <file alias="nl">locale/kandle_nl.qm</file>
+        <file alias="pl">locale/kandle_pl.qm</file>
+        <file alias="pt">locale/kandle_pt.qm</file>
+        <file alias="pt_BR">locale/kandle_pt_BR.qm</file>
+        <file alias="ro_RO">locale/kandle_ro_RO.qm</file>
+        <file alias="ru">locale/kandle_ru.qm</file>
+        <file alias="sk">locale/kandle_sk.qm</file>
+        <file alias="sv">locale/kandle_sv.qm</file>
+        <file alias="tr">locale/kandle_tr.qm</file>
+        <file alias="uk">locale/kandle_uk.qm</file>
+        <file alias="vi">locale/kandle_vi.qm</file>
+        <file alias="zh_CN">locale/kandle_zh_CN.qm</file>
+        <file alias="zh_TW">locale/kandle_zh_TW.qm</file>
+    </qresource>
+</RCC>

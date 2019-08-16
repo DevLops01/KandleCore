@@ -1,0 +1,11 @@
+[Protocol]
+exec=kandle-qt '%u'
+protocol=kandle
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
